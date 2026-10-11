@@ -1,0 +1,14 @@
+{
+  "Records": [
+    {
+      "s3": {
+        "bucket": {
+          "name": "yolo-detection-bucket-2026"
+        },
+        "object": {
+          "key": "dog1.jpg"
+        }
+      }
+    }
+  ]
+}
